@@ -1,11 +1,7 @@
 # BrainTumorSegmentation---UNet-java-
 
-BrainTumorTest : Test dataset
-
-BrainTumorTrain : Train dataset
-
-Obtained from https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation.
-Randomly selected 550 data for testing
+Dataset obtained from https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation.
+Randomly selected 550 data for testing, the rest are used for training. All images are seperated into inputs and Mask folder for both testing and training. Inputs and Mask should have the same label corresponding to each other.
 
 BraintumorUnet.java : Pretrain model
 
