@@ -13,9 +13,10 @@ BrainTumor.zip : Trained model. Download here shorturl.at/axGIM
 
 Train.png : Overview of the model's training
 
-Media1 : Recorded while running the trained model
+Media1 : Recorded while running the trained model.
+Left : MRI images | Middle : Mask of the tumor | Right : Predicted segmentation of the tumor
 
 Result
 Mean IOU : 0.6853
 
-Limited by time and laptop hardware, unable to use CUDA due to limited memory, run on stocked GPU Intel(R) HD Graphics 4600
+Limited by time and laptop hardware, unable to use CUDA due to limited memory, run on Intel i7 and stocked GPU Intel(R) HD Graphics 4600
