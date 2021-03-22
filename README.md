@@ -9,7 +9,11 @@ BraintumorDatasetIterator.java : Iterator
 
 BraintumorLoad.java : Load the trained model
 
-BrainTumor.zip : Trained model
+BrainTumor.zip : Trained model. Download here shorturl.at/axGIM
+
+Train.png : Overview of the model's training
+
+Media1 : Recorded while running the trained model
 
 Result
 Mean IOU : 0.6853
